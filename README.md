@@ -4,7 +4,6 @@ Script responsável por listar todos os arquivos em determinada pasta, desenvolv
 
 Requirements
 ------------
-
 In order to run this project you will need:
 
 - PHP 5 >= 7
@@ -13,8 +12,7 @@ In order to run this project you will need:
 
 Quickstart
 ----------
-
-$ git clone https://github.com/MorrisRuschel/php-help-list-all-files.git
+    $ git clone https://github.com/MorrisRuschel/php-help-list-all-files.git
     $ edit run.php - line 12 - $directory = 'samples/';
     $ run run.php
 
