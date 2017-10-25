@@ -1,5 +1,5 @@
 # php-help-list-all-files
-Script responsável por listar todos os arquivos em determinada pasta desenvolvido em PHP.
+Script responsável por listar todos os arquivos em determinada pasta, desenvolvido em PHP.
 
 -----------------------
 
