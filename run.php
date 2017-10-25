@@ -9,7 +9,7 @@ ini_set( 'max_execution_time', 600 );
 //
 // CONFIGURAÇÕES DO ARQUIVO
 //
-$directory = 'sample/';
+$directory = 'samples/';
 
 
 //
