@@ -13,9 +13,8 @@ In order to run this project you will need:
 
 Quickstart
 ----------
-::
 
-    $ git clone https://github.com/MorrisRuschel/php-help-list-all-files.git
+$ git clone https://github.com/MorrisRuschel/php-help-list-all-files.git
     $ edit run.php - line 12 - $directory = 'samples/';
     $ run run.php
 
